@@ -5,3 +5,20 @@ body {
 img {
     width: 30%
 }
+
+nav {
+    background-color: #222222;
+    text-align: center;
+  }
+  
+  nav ul {
+    display: flex; 
+    flex-direction: row; 
+    margin: 0;
+    padding: 0; 
+  }
+  
+  nav ul li {
+    flex-grow: 1; 
+    display: inline;
+  }
