@@ -1,24 +1,38 @@
-body {
-    background-color: lightseagreen;
+.site {
+  display: flex; 
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #cbcbcb;
 }
 
-img {
-    width: 30%
+.site-content {
+  flex: 1;
 }
 
 nav {
-    background-color: #222222;
-    text-align: center;
-  }
-  
-  nav ul {
-    display: flex; 
-    flex-direction: row; 
-    margin: 0;
-    padding: 0; 
-  }
-  
-  nav ul li {
-    flex-grow: 1; 
-    display: inline;
-  }
+  background: #003355;
+}
+
+.navbar-brand, .nav-item {
+  color: #cbcbcb;
+}
+
+img {
+  width: 30%
+}
+
+footer {
+  display: flex;
+  align-items: flex-end;
+  background: #003355;
+  height: 10vh;
+  width: 100vw:
+}
+
+/* color scheme: 
+  Prussian Blue: #003355
+  B'Dazzled Blue: #335577
+  Inchworm (green): #BBEE55
+  Pastel Gray: #CBCBCB
+  White Smoke: #F7F7F7
+   */
