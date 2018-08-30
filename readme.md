@@ -10,7 +10,7 @@ A site that will host future projects. It contains links to other pages within t
 
 HTML, CSS, Bootstrap, Javascript 
 
-## Wirefram 
+### Wireframe
 
 ![GitHub Logo](assets/personal-site-wireframe.jpg)
 
