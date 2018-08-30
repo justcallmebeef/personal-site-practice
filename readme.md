@@ -4,7 +4,7 @@ A site that will host future projects. It contains links to other pages within t
 
 ## Website URL: 
 
-<!-- INSERT URL -->
+http://justcallmebeef.surge.sh/index.html
 
 ### Technologies 
 
